@@ -1,0 +1,5 @@
+frame 32x32
+disparo row=0 frames=3
+astilla row=1 frames=1
+espina row=2 frames=1
+laja row=3 frames=3

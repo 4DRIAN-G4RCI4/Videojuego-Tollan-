@@ -1,0 +1,7 @@
+frame 32x48
+idle row=0 frames=4
+walk row=1 frames=4
+jump row=2 frames=1
+fall row=3 frames=1
+attack row=4 frames=3
+shoot row=5 frames=3

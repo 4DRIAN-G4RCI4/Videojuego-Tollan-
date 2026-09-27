@@ -1,0 +1,4 @@
+frame 64x96
+float row=0 frames=2
+swarm row=1 frames=1
+hurt row=2 frames=1

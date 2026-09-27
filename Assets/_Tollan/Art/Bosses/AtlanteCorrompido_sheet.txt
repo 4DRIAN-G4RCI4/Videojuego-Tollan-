@@ -1,0 +1,6 @@
+frame 128x192
+idle row=0 frames=2
+slam row=1 frames=3
+throw row=2 frames=2
+hurt row=3 frames=1
+phase3 row=4 frames=2

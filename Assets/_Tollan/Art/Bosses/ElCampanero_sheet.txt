@@ -1,0 +1,4 @@
+frame 64x80
+idle row=0 frames=2
+ring row=1 frames=1
+hurt row=2 frames=1

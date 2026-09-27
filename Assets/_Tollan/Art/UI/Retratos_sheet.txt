@@ -1,0 +1,7 @@
+frame 48x48
+ixtli row=0 frames=1
+itzcoatl row=1 frames=1
+abuelo row=2 frames=1
+atlante row=3 frames=1
+tezcatl row=4 frames=1
+estela row=5 frames=1

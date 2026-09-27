@@ -1,0 +1,2 @@
+frame 32x48
+idle row=0 frames=4

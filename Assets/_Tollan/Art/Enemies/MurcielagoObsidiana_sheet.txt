@@ -1,0 +1,4 @@
+frame 32x32
+fly row=0 frames=2
+dive row=1 frames=1
+hurt row=2 frames=1

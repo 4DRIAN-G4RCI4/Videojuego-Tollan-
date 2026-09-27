@@ -1,0 +1,5 @@
+frame 64x64
+tzompantli row=0 frames=1
+vagoneta row=1 frames=1
+mezquite row=2 frames=1
+papel_picado row=3 frames=1

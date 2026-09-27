@@ -1,0 +1,3 @@
+frame 32x48
+idle row=0 frames=1
+hurt row=1 frames=2

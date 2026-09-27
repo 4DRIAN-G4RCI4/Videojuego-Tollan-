@@ -1,0 +1,4 @@
+frame 32x48
+walk row=0 frames=2
+attack row=1 frames=1
+hurt row=2 frames=1

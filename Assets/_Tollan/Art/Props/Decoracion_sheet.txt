@@ -1,0 +1,21 @@
+frame 32x32
+arbusto_seco row=0 frames=1
+arbusto_verde row=1 frames=1
+maguey row=2 frames=1
+nopal row=3 frames=1
+calavera row=4 frames=1
+calavera_piedra row=5 frames=1
+huesos row=6 frames=1
+vasija row=7 frames=1
+olla_rota row=8 frames=1
+piedras row=9 frames=1
+cempasuchil row=10 frames=1
+caja row=11 frames=1
+canasto row=12 frames=1
+estela row=13 frames=1
+puas row=14 frames=1
+bloque_tallable row=15 frames=1
+antorcha row=16 frames=4
+brasero row=17 frames=4
+ofrenda row=18 frames=2
+brasero_apagado row=19 frames=1

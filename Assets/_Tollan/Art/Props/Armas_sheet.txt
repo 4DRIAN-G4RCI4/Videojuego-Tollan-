@@ -1,0 +1,10 @@
+frame 32x32
+pico row=0 frames=1
+pala row=1 frames=1
+escopeta row=2 frames=1
+mazo row=3 frames=1
+astillas row=4 frames=1
+escopeta_pickup row=5 frames=4
+corazon_obsidiana row=6 frames=4
+fragmento_mural row=7 frames=1
+vida row=8 frames=4

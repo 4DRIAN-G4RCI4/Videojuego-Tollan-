@@ -1,0 +1,5 @@
+frame 48x56
+idle row=0 frames=1
+block row=1 frames=1
+attack row=2 frames=1
+hurt row=3 frames=1

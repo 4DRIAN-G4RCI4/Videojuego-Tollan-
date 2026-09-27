@@ -1,0 +1,3 @@
+frame 128x192
+sleep row=0 frames=1
+idle row=1 frames=2
